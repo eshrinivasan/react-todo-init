@@ -1,0 +1,13 @@
+.container{
+  width:400px;
+  margin: 10px auto;
+  display:flex;
+}
+
+.row{
+  display: table;
+  text-align: center;
+  margin: 0 auto;
+  align-content: space-around;
+  align-items: center
+}
